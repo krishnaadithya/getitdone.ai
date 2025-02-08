@@ -84,3 +84,8 @@
 - Home maintenance reminders
 - Grocery list management
 - Quick note taking
+
+
+## Open souce porjects to look at:
+- https://github.com/showlab/computer_use_ootb?tab=readme-ov-file
+- https://github.com/bytedance/UI-TARS
